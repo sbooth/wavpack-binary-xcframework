@@ -23,7 +23,7 @@ let package = Package(
 		// Targets can depend on other targets in this package and products from dependencies.
 		.binaryTarget(
 			name: "wavpack",
-			url: "https://github.com/sbooth/wavpack-binary-xcframework/releases/download/0.1.2/wavpack.xcframework.zip",
-			checksum: "284595e9044a27ea294d161d061c0c01d6e330c1476f2b8205f1f9a95b61f870"),
+			url: "https://github.com/sbooth/wavpack-binary-xcframework/releases/download/0.2.0/wavpack.xcframework.zip",
+			checksum: "4590fc9369855d4568ae27a59943377a6b711c4049dcdf688820e73be98e1b80"),
 	]
 )
